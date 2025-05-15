@@ -5,6 +5,6 @@ const showNames = (a, b, ...rest) => {
 };
 
 showNames('Moon', 'Mercury', 'Mars', 'Jupiter', 'Venus');
-// Moon
-// Mercury
-// [ 'Mars', 'Jupiter', 'Venus' ]
+//Moon
+//Mercury
+//[ 'Mars', 'Jupiter', 'Venus']

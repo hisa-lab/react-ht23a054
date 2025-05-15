@@ -1,8 +1,8 @@
 const fuu = {
     bar: 'bar',
-    baz () {
+    baz(){
         console.log('I am `baz` method');
     },
 };
 
-fuu.baz();
+fuu.baz(); //I am `baz` method

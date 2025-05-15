@@ -1,11 +1,9 @@
-// 関数宣言文
-function double (n) {
+// 関数宣言文による定義
+function double(n){
     return n * 2;
 }
 
-// 関数式
-const dbl = function (n) {
+//関数式による定義
+const db1 = function(n){
     return n * 2;
-}
-
-console.log(double(2), dbl(2));
+};
