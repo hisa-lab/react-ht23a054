@@ -1,0 +1,12 @@
+{
+    "CompilerOptions":{
+        "target": "ES5",
+        "module": "CommonJS",
+        "moduleResolution": "NodeNext",
+        "declaration": true,
+        "noImpliciAny": true,
+        "strictNullChecks": true,
+        "forceConsistentCasingInFileNamas": true,
+        "skipLibCheck": true
+    }
+}
